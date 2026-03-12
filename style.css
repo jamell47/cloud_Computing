@@ -1,0 +1,9 @@
+h1,p{
+    color: blue;
+    text-align: center;
+}
+.image{
+    width: 100%;
+    align-items: center;
+    height: 600px;
+}
